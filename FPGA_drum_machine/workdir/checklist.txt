@@ -1,8 +1,0 @@
-scankey - verified - rtl
-clkdiv - verified - rtl
-prienc8to3 - verified - rtl
-sequencer - verified - rtl
-sequence_editor - verified - rtl
-pwm - verified - rtl
-sample - verified - 
-controller - verified
